@@ -1,29 +1,24 @@
 baseURL = "http://henryscotthale.com"
-defaultContentLanguage = "en"
-languageCode = "en"
-
 title = "Henry Scott Hale"
-
 theme = "gokarna"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+enableRobotsTXT = true
+
 [params]
-  socialIcons = [
-    {name = "gmail", url = "mailto:henry.hale@brooklaw.edu"},
-    {name="linkedin",url="https://linkedin.com/in/henryscotthale/"}
-  ]
-  # URL for the avatar on homepage
   avatarURL = "/images/headshot.png"
-
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = "size-l"
-
+  avatarSize = "size-xl"
   # Description to display on homepage
   description = "J.D. Candidate at Brooklyn Law School"
-
   # Accent color is displayed when you hover over <a> tags
   accentColor = "#FF4D4D"
-
-# Automatically generate robots.txt
-enableRobotsTXT = true
+  
+  SocialIcons = [
+    {name = "gmail", url = "mailto:henry.hale@brooklaw.edu"},
+    {name="linkedin2",url="https://linkedin.com/in/henryscotthale/"}
+  ]
 
 [menu]
   [[menu.main]]
