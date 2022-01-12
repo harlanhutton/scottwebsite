@@ -7,8 +7,8 @@ title = "Henry Scott Hale"
 theme = "gokarna"
 [params]
   socialIcons = [
-    {name = "linkedin", url = "https://www.linkedin.com/in/henryscotthale/"},
-    {name = "gmail", url = "mailto:henry.hale@brooklaw.edu"}
+    {name = "gmail", url = "mailto:henry.hale@brooklaw.edu"},
+    {name="linkedin",url="https://linkedin.com/in/henryscotthale/"}
   ]
   # URL for the avatar on homepage
   avatarURL = "/images/headshot.png"
